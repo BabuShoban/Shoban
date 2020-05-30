@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec54e792-c08f-4bac-b58c-d370c6ac9014" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ccWtdZqwAuBD4RpHjfMey89pxQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="TestNG.JuiceShopRegistration.openBrowser">
+    <configuration name="C:/Users/Administrator/Lenovo/Testing Framework/QABootCamp_Maven/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QABootCamp_Maven" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JuiceShopRegistration.openBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QABootCamp_Maven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JuiceShopRegistration" />
+      <option name="METHOD_NAME" value="openBrowser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" nameIsGenerated="true">
+      <module name="QABootCamp_Maven" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="TestNG.C:/Users/Administrator/Lenovo/Testing Framework/QABootCamp_Maven/testng.xml" />
+      <item itemvalue="TestNG.JuiceShopRegistration.openBrowser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JuiceShopRegistration.openBrowser" />
+        <item itemvalue="TestNG.C:/Users/Administrator/Lenovo/Testing Framework/QABootCamp_Maven/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec54e792-c08f-4bac-b58c-d370c6ac9014" name="Default Changelist" comment="" />
+      <created>1590828577441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590828577441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590829191436">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="176" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1590829191436" />
+    <state x="526" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1590830729070">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="526" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1590830729070" />
+    <state x="456" y="193" key="EnvironmentVariablesDialog" timestamp="1590830222024">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="456" y="193" key="EnvironmentVariablesDialog/0.0.1440.860@0.0.1440.860" timestamp="1590830222024" />
+    <state x="523" y="192" key="FileChooserDialogImpl" timestamp="1590830358988">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="523" y="192" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1590830358988" />
+    <state width="1398" height="292" key="GridCell.Tab.0.bottom" timestamp="1590832647090">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1590832647090" />
+    <state width="1398" height="292" key="GridCell.Tab.0.center" timestamp="1590832647089">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1590832647089" />
+    <state width="1398" height="292" key="GridCell.Tab.0.left" timestamp="1590832647088">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1590832647088" />
+    <state width="1398" height="292" key="GridCell.Tab.0.right" timestamp="1590832647089">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1590832647089" />
+    <state x="222" y="11" key="SettingsEditor" timestamp="1590830363782">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="222" y="11" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1590830363782" />
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1590829758972">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1590829758972" />
+  </component>
+</project>
